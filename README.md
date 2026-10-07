@@ -2,7 +2,6 @@
 
 TinySign is a hardware security element prototype for protected-key ECDSA P-256 signing. It targets the Peruri Chip Hackathon 2026, Topik 1: Secure Identity & Security Element, with DE10-Nano / Cyclone V as the planned FPGA target.
 
-The supplied proposal describes verification-only ECDSA; the current engineering handoff instead specifies signing with an internally held private key. This repository follows the handoff, and records the proposal mismatch in `docs/architecture.md`.
 
 ## Current status
 
